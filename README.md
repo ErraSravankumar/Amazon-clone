@@ -1,1 +1,1 @@
-# Amazon-clone
+Step into the world of online shopping with this dynamic Amazon clone.From the moment users land on the responsive homepage to exploring detailed product pages,every element is designed to provide a seamless and engaging e-commerce experience.
